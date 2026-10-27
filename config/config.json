@@ -2,10 +2,10 @@
   "template": "app",
   "project_name": "Radio RutaRock",
   "clientId": "cmuy7uty0006gn69ndgfr7sng",
-  "sonicpanel_port": "8028",
+  "sonicpanel_port": "8012",
   "ipstream_base_url": "https://dashboard.ipstream.cl/api/public",
-  "sonicpanel_stream_url": "https://stream2.ipstream.cl/8028/stream",
-  "sonicpanel_api_url": "https://stream2.ipstream.cl/cp/get_info.php?p=8028",
+  "sonicpanel_stream_url": "https://stream.ipstream.cl/8012/stream",
+  "sonicpanel_api_url": "https://stream.ipstream.cl/cp/get_info.php?p=8012",
   "cache_version": "v1",
   "offline_page": "/offline.html",
   "pagination": {
